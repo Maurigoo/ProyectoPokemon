@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+:root {
+     --primary-color: #ccf62c;
+     --secondary-color: #98c74e;
+     --tertiary-color: #60a261;
+     --quaternary-color: #357a5b;
+ 
+     --primary-color-lightest: #f6f9b3;
+     --primary-color-light: #e0f19a;
+     --primary-color: #ccf62c;
+     --primary-color-dark: #8baf1f;
+     --primary-color-darkest: #617617;
+ 
+     --secondary-color-lightest: #d0e4b1;
+     --secondary-color-light: #b3d68f;
+     --secondary-color: #98c74e;
+     --secondary-color-dark: #6b8b39;
+     --secondary-color-darkest: #4a6630;
+ 
+     --tertiary-color-lightest: #9bc28a;
+     --tertiary-color-light: #83b77b;
+     --tertiary-color: #60a261;
+     --tertiary-color-dark: #457c4d;
+     --tertiary-color-darkest: #2f5635;
+ 
+     --quaternary-color-lightest: #6da67d;
+     --quaternary-color-light: #549c6e;
+     --quaternary-color: #357a5b;
+     --quaternary-color-dark: #1f4e3e;
+     --quaternary-color-darkest: #12362a;
+ 
+     --gradiente-overlay1: linear-gradient(90deg, #9efc2e, #01a27c, #195a3d, #1cbcd1);
+     --gradiente-overlay: radial-gradient(ellipse at bottom, #fef08a, #84cc16, #1e2406);
+     --gradiente-carta: linear-gradient(152deg, #2d4138, #98c74e, #60a261);
+ 
+     --font-titulo: 'Silkscreen', sans-serif;
+     --font-secondary: 'Courier New', monospace;
+ 
+     --spacing-small: 8px;
+     --spacing-medium: 16px;
+     --spacing-large: 32px;
+}
